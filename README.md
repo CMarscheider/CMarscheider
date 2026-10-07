@@ -1,6 +1,6 @@
 # Christian Marscheider
 
-Webentwickler mit Fokus auf JavaScript und TypeScript. Ich baue gern Anwendungen von der Oberfläche bis zur Datenhaltung und arbeite mich dabei so lange in ein Thema ein, bis ich verstanden habe, warum etwas funktioniert.
+Webentwickler mit Fokus auf JavaScript und TypeScript. Ich baue gern Anwendungen von der Oberfläche bis zur Datenverwaltung und arbeite mich dabei so lange in ein Thema ein, bis ich verstanden habe, warum etwas funktioniert.
 
 ## Projekte
 
